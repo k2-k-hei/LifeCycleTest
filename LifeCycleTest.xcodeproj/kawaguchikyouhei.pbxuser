@@ -1,0 +1,218 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* LifeCycleTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 415}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRange = "{0, 425}";
+		};
+	};
+	1D3623250D0F684500981E51 /* LifeCycleTestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1092}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRange = "{0, 768}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* LifeCycleTest */ = {
+		activeExec = 0;
+		executables = (
+			82FAC81D12675A04007527F0 /* LifeCycleTest */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 82FAC81D12675A04007527F0 /* LifeCycleTest */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* LifeCycleTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* LifeCycleTest */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 82FAC82912675A22007527F0 /* Code sense */;
+		executables = (
+			82FAC81D12675A04007527F0 /* LifeCycleTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					278,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 309621459;
+			PBXWorkspaceStateSaveDate = 309621459;
+		};
+		perUserProjectItems = {
+			82E739561274729200A82194 /* PBXTextBookmark */ = 82E739561274729200A82194 /* PBXTextBookmark */;
+			82E739581274729200A82194 /* PBXTextBookmark */ = 82E739581274729200A82194 /* PBXTextBookmark */;
+			82E739591274729200A82194 /* PBXTextBookmark */ = 82E739591274729200A82194 /* PBXTextBookmark */;
+			82E7395A1274729200A82194 /* PBXTextBookmark */ = 82E7395A1274729200A82194 /* PBXTextBookmark */;
+			82E7395D127472C700A82194 /* PBXTextBookmark */ = 82E7395D127472C700A82194 /* PBXTextBookmark */;
+			82E73976127472F000A82194 /* PBXTextBookmark */ = 82E73976127472F000A82194 /* PBXTextBookmark */;
+			82FAC90112676826007527F0 /* PBXTextBookmark */ = 82FAC90112676826007527F0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 82FAC82812675A22007527F0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	82E739561274729200A82194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82E739571274729200A82194 /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	82E739571274729200A82194 /* main.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = main.m;
+		path = "/Users/kawaguchikyouhei/iPhone/item/blog/LifeCycleTest-M/pert.2/LifeCycleTestTab/main.m";
+		sourceTree = "<absolute>";
+	};
+	82E739581274729200A82194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* LifeCycleTestAppDelegate.h */;
+		name = "LifeCycleTestAppDelegate.h: 6";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 425;
+		vrLoc = 0;
+	};
+	82E739591274729200A82194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* LifeCycleTestAppDelegate.m */;
+		name = "LifeCycleTestAppDelegate.m: 6";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 768;
+		vrLoc = 0;
+	};
+	82E7395A1274729200A82194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82FAC82A12675A37007527F0 /* LifeCycleTestViewController.h */;
+		name = "LifeCycleTestViewController.h: 6";
+		rLen = 0;
+		rLoc = 147;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	82E7395D127472C700A82194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82FAC82B12675A37007527F0 /* LifeCycleTestViewController.m */;
+		name = "LifeCycleTestViewController.m: 93";
+		rLen = 0;
+		rLoc = 2375;
+		rType = 0;
+		vrLen = 792;
+		vrLoc = 197;
+	};
+	82E73976127472F000A82194 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82FAC82B12675A37007527F0 /* LifeCycleTestViewController.m */;
+		name = "LifeCycleTestViewController.m: 93";
+		rLen = 0;
+		rLoc = 2375;
+		rType = 0;
+		vrLen = 781;
+		vrLoc = 241;
+	};
+	82FAC81D12675A04007527F0 /* LifeCycleTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = LifeCycleTest;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	82FAC82812675A22007527F0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	82FAC82912675A22007527F0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	82FAC82A12675A37007527F0 /* LifeCycleTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {781, 415}}";
+			sepNavSelRange = "{147, 0}";
+			sepNavVisRange = "{0, 247}";
+		};
+	};
+	82FAC82B12675A37007527F0 /* LifeCycleTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {859, 1469}}";
+			sepNavSelRange = "{2375, 0}";
+			sepNavVisRange = "{241, 781}";
+		};
+	};
+	82FAC85212675C8E007527F0 /* UIViewController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIViewController.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h;
+		sourceTree = "<absolute>";
+	};
+	82FAC90112676826007527F0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 82FAC85212675C8E007527F0 /* UIViewController.h */;
+		name = "UIViewController.h: 115";
+		rLen = 149;
+		rLoc = 4520;
+		rType = 0;
+		vrLen = 3437;
+		vrLoc = 3640;
+	};
+}
